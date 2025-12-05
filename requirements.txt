@@ -1,0 +1,9 @@
+pandas
+numpy
+prophet
+streamlit
+fastapi
+uvicorn[standard]
+joblib
+requests
+python-dateutil
